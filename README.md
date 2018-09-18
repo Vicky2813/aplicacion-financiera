@@ -26,5 +26,5 @@ Luego de estudiar y analizar toda la data que me fue proporcionada por el client
 
 ## Presentación de Power Point
 
-[Click aquí](https://docs.google.com/presentation/d/1FC-65nJB5EZILa0yTpLay7f7-pmkSH-d6i0SY5vmpkk/edit#slide=id.p1)
+[Click aquí](https://docs.google.com/presentation/d/1-2MIGgrk8DTcP26IeJVzNu2mpgw2WPu8vwYW0W1y75M/edit?usp=sharing)
 
