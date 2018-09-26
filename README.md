@@ -43,5 +43,5 @@ Con todas estas mejoras en el flujo mejoraremos  la experiencia de usuario al te
 
 ## Presentación de Power Point
 
-[Click aquí](https://docs.google.com/presentation/d/1-2MIGgrk8DTcP26IeJVzNu2mpgw2WPu8vwYW0W1y75M/edit?usp=sharing)
+[Click aquí](https://docs.google.com/presentation/d/1l1fRIchSBAIWEFOqWssBkdZ13-v-MRQLh92zwQ3UjpI/edit?usp=sharing)
 
