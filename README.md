@@ -21,8 +21,25 @@ Luego de estudiar y analizar toda la data que me fue proporcionada por el client
 * Realizar las modificaciones a la aplicación.
 * Diseñar una nueva aplicación para Android, que sea fácil de utilizar y entender, amigable al usuario.
 
-## Entrevistas (Product Manager y a Usuarios)
+##  Consideraciones Generales:
+
+El cliente desea que dicha aplicación bancaria  sea lo más fácil de manejar para sus usuarios, que sea entendible y que sea amigable, pero también que refleje los principios de la empresa e incentive a sus usuarios a ahorrar, ya que la mayoría de sus clientes son personas que si desean ahorrar pero también quieren ir más allá.
+
+# General:
+Este proyecto se verá bien por los momentos únicamente en  iOS. 
+• Enfoque: Se adaptará a las necesidades del cliente. Además, brindará a sus usuarios un seguimiento visible de su cuentas bancarias, como lo son: • Sus movimientos bancarios.
+• Gastos,, donde les podrá poner nombre a cada gasto según su necesidad.
+•Podrá realizar transacciones, pagar sus tarjetas de crédito, visualizar sus detalles de cada operación.
+•Crear un apartado de ahorro, donde el mismo se colocará la meta deseada.
+• Inventir para su futuro, ya que en la aplicación podrá buscar las inversiones que estén en el día a día, y si tiene un buen hábito de ahorro podrá pensar en invertir para su futuro.
+Con todas estas mejoras en el flujo mejoraremos  la experiencia de usuario al tener esta aplicación bancaria en su dispositivo iOS , ya que reducirá y agilizará los procesos y transacciones bancarias , logrando con esto que los usuarios no tenga que apersonarse en la sucursales. En el caso de nuestro cliente gracias a esta aplicación, podrán brindarles a sus usuarios la confianza y  seguridad a sus usuarios que su dinero esta en buenas manos, más allá de esto también se propone comenzar a realizar un producto mínimo viable para Android, ya que con las investigaciones y la data que se me proporcionó , se obtuvo que el 89% de sus usuarios poseen dispositivos Android.
+
+## Entrevistas y Documentación del proyecto (Product Manager y a Usuarios)
 [Google Drive](https://drive.google.com/drive/folders/1_R3s9PJQoqM4xm87h4ZHRHApL1u2Nz-p)
+
+##  Estrategias usadas para la investigación:
+
+•Entendimiento del problema, la industria y el contexto: En esta etapa, conversamos con el cliente para conocer detalladamente sus necesidades, metas, objetivos, y funcionamiento del negocio. Luego de esta conversación analizamos su problema y al definirlo procedimos a realizar  unas pruebas de usabilidad para saber que pensaban los usuarios del flujo de la aplicación luego se realizó una investigación de mercado donde pudiésemos comparar otras aplicaciones bancarias, lo que nos ayudo a implementar una hipótesis, la cual más adelante nos ayudó a demostrar que se tenía que mejorar el flujo de la misma, optimizar la landing page y ya teniendo todo esto solucionado invertir en Facebook Ads, teniendo en cuenta que se deberá realizar un (MVP) para dispositivos Android. 
 
 ## Presentación de Power Point
 
