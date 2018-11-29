@@ -8,6 +8,8 @@ Biobank es una aplicación financiera, en la que puedes realizar todas tus trans
 
 [Laboratoria](https://www.laboratoria.la/)
 
+
+### Introducción
 El banco más importante del país ha lanzado una nueva aplicación móvil al mercado para que sus usuarios puedan visualizar sus gastos mensuales y fomentar el ahorro. Luego de tener algunos meses en el mercado, el equipo detrás de este nuevo producto me ha contactado ya que  necesitan de mi experiencia como  UX para que los ayude a definir la dirección y evolución del producto, me han asignado el proyecto para hacer un diagnóstico, evaluar el desempeño de la aplicación y proponer los cambios necesarios para optimizar el producto. 
 Después de una entrevista con el Product Manager del equipo, y me comentó que luego de haber estado en EEUU y Europa; se inspiró en unas aplicaciones financiera que estaban saliendo al mercado y que de allí decidieron modificar la aplicación que tenían para el momento, entrevistaron a algunos usuarios y con base a las investigaciones realizadas desarrollaron un ‘Producto mínimo viable’ (MVP) en 2 meses en iOS.
 
